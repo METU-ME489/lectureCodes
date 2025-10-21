@@ -1,2 +1,2 @@
-# lectureCodes
-Supplementary lecture codes.
+# lecture codes used in fall 2025
+
