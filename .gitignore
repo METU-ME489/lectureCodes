@@ -13,17 +13,11 @@
 *.la
 *.lo
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
 # debug information files
 *.dwo
 
 # possible io files
 *.vtu
 *.png
-*.dat
 *.txt
+*.csv
